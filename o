@@ -1,0 +1,694 @@
+Received request to gather metric tcp.connection.stats with periodicity 1000 ms
+RecordQueue tcp.connection.stats contains 0 records
+Retrieved 477 processes under /proc
+Have path fdPathStr /proc/1/fd
+fdPaths length:8 path:/proc/1/fd
+Checking for socketId:10571
+Checking for socketId:16382
+Have path fdPathStr /proc/2/fd
+fdPaths length:0 path:/proc/2/fd
+Have path fdPathStr /proc/3/fd
+fdPaths length:0 path:/proc/3/fd
+Have path fdPathStr /proc/4/fd
+fdPaths length:0 path:/proc/4/fd
+Have path fdPathStr /proc/5/fd
+fdPaths length:0 path:/proc/5/fd
+Have path fdPathStr /proc/6/fd
+fdPaths length:0 path:/proc/6/fd
+Have path fdPathStr /proc/7/fd
+fdPaths length:0 path:/proc/7/fd
+Have path fdPathStr /proc/8/fd
+fdPaths length:0 path:/proc/8/fd
+Have path fdPathStr /proc/9/fd
+fdPaths length:0 path:/proc/9/fd
+Have path fdPathStr /proc/10/fd
+fdPaths length:0 path:/proc/10/fd
+Have path fdPathStr /proc/11/fd
+fdPaths length:0 path:/proc/11/fd
+Have path fdPathStr /proc/12/fd
+fdPaths length:0 path:/proc/12/fd
+Have path fdPathStr /proc/13/fd
+fdPaths length:0 path:/proc/13/fd
+Have path fdPathStr /proc/14/fd
+fdPaths length:0 path:/proc/14/fd
+Have path fdPathStr /proc/15/fd
+fdPaths length:0 path:/proc/15/fd
+Have path fdPathStr /proc/16/fd
+fdPaths length:0 path:/proc/16/fd
+Have path fdPathStr /proc/17/fd
+fdPaths length:0 path:/proc/17/fd
+Have path fdPathStr /proc/18/fd
+fdPaths length:0 path:/proc/18/fd
+Have path fdPathStr /proc/19/fd
+fdPaths length:0 path:/proc/19/fd
+Have path fdPathStr /proc/20/fd
+fdPaths length:0 path:/proc/20/fd
+Have path fdPathStr /proc/21/fd
+fdPaths length:0 path:/proc/21/fd
+Have path fdPathStr /proc/22/fd
+fdPaths length:0 path:/proc/22/fd
+Have path fdPathStr /proc/23/fd
+fdPaths length:0 path:/proc/23/fd
+Have path fdPathStr /proc/24/fd
+fdPaths length:0 path:/proc/24/fd
+Have path fdPathStr /proc/25/fd
+fdPaths length:0 path:/proc/25/fd
+Have path fdPathStr /proc/26/fd
+fdPaths length:0 path:/proc/26/fd
+Have path fdPathStr /proc/27/fd
+fdPaths length:0 path:/proc/27/fd
+Have path fdPathStr /proc/28/fd
+fdPaths length:0 path:/proc/28/fd
+Have path fdPathStr /proc/29/fd
+fdPaths length:0 path:/proc/29/fd
+Have path fdPathStr /proc/30/fd
+fdPaths length:0 path:/proc/30/fd
+Have path fdPathStr /proc/31/fd
+fdPaths length:0 path:/proc/31/fd
+Have path fdPathStr /proc/32/fd
+fdPaths length:0 path:/proc/32/fd
+Have path fdPathStr /proc/33/fd
+fdPaths length:0 path:/proc/33/fd
+Have path fdPathStr /proc/34/fd
+fdPaths length:0 path:/proc/34/fd
+Have path fdPathStr /proc/35/fd
+fdPaths length:0 path:/proc/35/fd
+Have path fdPathStr /proc/36/fd
+fdPaths length:0 path:/proc/36/fd
+Have path fdPathStr /proc/37/fd
+fdPaths length:0 path:/proc/37/fd
+Have path fdPathStr /proc/38/fd
+fdPaths length:0 path:/proc/38/fd
+Have path fdPathStr /proc/39/fd
+fdPaths length:0 path:/proc/39/fd
+Have path fdPathStr /proc/40/fd
+fdPaths length:0 path:/proc/40/fd
+Have path fdPathStr /proc/41/fd
+fdPaths length:0 path:/proc/41/fd
+Have path fdPathStr /proc/42/fd
+fdPaths length:0 path:/proc/42/fd
+Have path fdPathStr /proc/43/fd
+fdPaths length:0 path:/proc/43/fd
+Have path fdPathStr /proc/44/fd
+fdPaths length:0 path:/proc/44/fd
+Have path fdPathStr /proc/45/fd
+fdPaths length:0 path:/proc/45/fd
+Have path fdPathStr /proc/46/fd
+fdPaths length:0 path:/proc/46/fd
+Have path fdPathStr /proc/47/fd
+fdPaths length:0 path:/proc/47/fd
+Have path fdPathStr /proc/48/fd
+fdPaths length:0 path:/proc/48/fd
+Have path fdPathStr /proc/49/fd
+fdPaths length:0 path:/proc/49/fd
+Have path fdPathStr /proc/50/fd
+fdPaths length:0 path:/proc/50/fd
+Have path fdPathStr /proc/51/fd
+fdPaths length:0 path:/proc/51/fd
+Have path fdPathStr /proc/52/fd
+fdPaths length:0 path:/proc/52/fd
+Have path fdPathStr /proc/53/fd
+fdPaths length:0 path:/proc/53/fd
+Have path fdPathStr /proc/54/fd
+fdPaths length:0 path:/proc/54/fd
+Have path fdPathStr /proc/55/fd
+fdPaths length:0 path:/proc/55/fd
+Have path fdPathStr /proc/56/fd
+fdPaths length:0 path:/proc/56/fd
+Have path fdPathStr /proc/57/fd
+fdPaths length:0 path:/proc/57/fd
+Have path fdPathStr /proc/58/fd
+fdPaths length:0 path:/proc/58/fd
+Have path fdPathStr /proc/59/fd
+fdPaths length:0 path:/proc/59/fd
+Have path fdPathStr /proc/60/fd
+fdPaths length:0 path:/proc/60/fd
+Have path fdPathStr /proc/61/fd
+fdPaths length:0 path:/proc/61/fd
+Have path fdPathStr /proc/62/fd
+fdPaths length:0 path:/proc/62/fd
+Have path fdPathStr /proc/63/fd
+fdPaths length:0 path:/proc/63/fd
+Have path fdPathStr /proc/64/fd
+fdPaths length:0 path:/proc/64/fd
+Have path fdPathStr /proc/65/fd
+fdPaths length:0 path:/proc/65/fd
+Have path fdPathStr /proc/66/fd
+fdPaths length:0 path:/proc/66/fd
+Have path fdPathStr /proc/67/fd
+fdPaths length:0 path:/proc/67/fd
+Have path fdPathStr /proc/68/fd
+fdPaths length:0 path:/proc/68/fd
+Have path fdPathStr /proc/69/fd
+fdPaths length:0 path:/proc/69/fd
+Have path fdPathStr /proc/70/fd
+fdPaths length:0 path:/proc/70/fd
+Have path fdPathStr /proc/71/fd
+fdPaths length:0 path:/proc/71/fd
+Have path fdPathStr /proc/72/fd
+fdPaths length:0 path:/proc/72/fd
+Have path fdPathStr /proc/73/fd
+fdPaths length:0 path:/proc/73/fd
+Have path fdPathStr /proc/74/fd
+fdPaths length:0 path:/proc/74/fd
+Have path fdPathStr /proc/75/fd
+fdPaths length:0 path:/proc/75/fd
+Have path fdPathStr /proc/76/fd
+fdPaths length:0 path:/proc/76/fd
+Have path fdPathStr /proc/77/fd
+fdPaths length:0 path:/proc/77/fd
+Have path fdPathStr /proc/78/fd
+fdPaths length:0 path:/proc/78/fd
+Have path fdPathStr /proc/79/fd
+fdPaths length:0 path:/proc/79/fd
+Have path fdPathStr /proc/80/fd
+fdPaths length:0 path:/proc/80/fd
+Have path fdPathStr /proc/81/fd
+fdPaths length:0 path:/proc/81/fd
+Have path fdPathStr /proc/82/fd
+fdPaths length:0 path:/proc/82/fd
+Have path fdPathStr /proc/83/fd
+fdPaths length:0 path:/proc/83/fd
+Have path fdPathStr /proc/84/fd
+fdPaths length:0 path:/proc/84/fd
+Have path fdPathStr /proc/85/fd
+fdPaths length:0 path:/proc/85/fd
+Have path fdPathStr /proc/86/fd
+fdPaths length:0 path:/proc/86/fd
+Have path fdPathStr /proc/87/fd
+fdPaths length:0 path:/proc/87/fd
+Have path fdPathStr /proc/88/fd
+fdPaths length:0 path:/proc/88/fd
+Have path fdPathStr /proc/89/fd
+fdPaths length:0 path:/proc/89/fd
+Have path fdPathStr /proc/90/fd
+fdPaths length:0 path:/proc/90/fd
+Have path fdPathStr /proc/91/fd
+fdPaths length:0 path:/proc/91/fd
+Have path fdPathStr /proc/92/fd
+fdPaths length:0 path:/proc/92/fd
+Have path fdPathStr /proc/93/fd
+fdPaths length:0 path:/proc/93/fd
+Have path fdPathStr /proc/94/fd
+fdPaths length:0 path:/proc/94/fd
+Have path fdPathStr /proc/95/fd
+fdPaths length:0 path:/proc/95/fd
+Have path fdPathStr /proc/96/fd
+fdPaths length:0 path:/proc/96/fd
+Have path fdPathStr /proc/97/fd
+fdPaths length:0 path:/proc/97/fd
+Have path fdPathStr /proc/98/fd
+fdPaths length:0 path:/proc/98/fd
+Have path fdPathStr /proc/99/fd
+fdPaths length:0 path:/proc/99/fd
+Have path fdPathStr /proc/100/fd
+fdPaths length:0 path:/proc/100/fd
+Have path fdPathStr /proc/101/fd
+fdPaths length:0 path:/proc/101/fd
+Have path fdPathStr /proc/102/fd
+fdPaths length:0 path:/proc/102/fd
+Have path fdPathStr /proc/103/fd
+fdPaths length:0 path:/proc/103/fd
+Have path fdPathStr /proc/104/fd
+fdPaths length:0 path:/proc/104/fd
+Have path fdPathStr /proc/105/fd
+fdPaths length:0 path:/proc/105/fd
+Have path fdPathStr /proc/106/fd
+fdPaths length:0 path:/proc/106/fd
+Have path fdPathStr /proc/107/fd
+fdPaths length:0 path:/proc/107/fd
+Have path fdPathStr /proc/108/fd
+fdPaths length:0 path:/proc/108/fd
+Have path fdPathStr /proc/109/fd
+fdPaths length:0 path:/proc/109/fd
+Have path fdPathStr /proc/110/fd
+fdPaths length:0 path:/proc/110/fd
+Have path fdPathStr /proc/111/fd
+fdPaths length:0 path:/proc/111/fd
+Have path fdPathStr /proc/112/fd
+fdPaths length:0 path:/proc/112/fd
+Have path fdPathStr /proc/113/fd
+fdPaths length:0 path:/proc/113/fd
+Have path fdPathStr /proc/114/fd
+fdPaths length:0 path:/proc/114/fd
+Have path fdPathStr /proc/115/fd
+fdPaths length:0 path:/proc/115/fd
+Have path fdPathStr /proc/116/fd
+fdPaths length:0 path:/proc/116/fd
+Have path fdPathStr /proc/117/fd
+fdPaths length:0 path:/proc/117/fd
+Have path fdPathStr /proc/118/fd
+fdPaths length:0 path:/proc/118/fd
+Have path fdPathStr /proc/119/fd
+fdPaths length:0 path:/proc/119/fd
+Have path fdPathStr /proc/120/fd
+fdPaths length:0 path:/proc/120/fd
+Have path fdPathStr /proc/121/fd
+fdPaths length:0 path:/proc/121/fd
+Have path fdPathStr /proc/122/fd
+fdPaths length:0 path:/proc/122/fd
+Have path fdPathStr /proc/123/fd
+fdPaths length:0 path:/proc/123/fd
+Have path fdPathStr /proc/124/fd
+fdPaths length:0 path:/proc/124/fd
+Have path fdPathStr /proc/125/fd
+fdPaths length:0 path:/proc/125/fd
+Have path fdPathStr /proc/126/fd
+fdPaths length:0 path:/proc/126/fd
+Have path fdPathStr /proc/127/fd
+fdPaths length:0 path:/proc/127/fd
+Have path fdPathStr /proc/128/fd
+fdPaths length:0 path:/proc/128/fd
+Have path fdPathStr /proc/129/fd
+fdPaths length:0 path:/proc/129/fd
+Have path fdPathStr /proc/130/fd
+fdPaths length:0 path:/proc/130/fd
+Have path fdPathStr /proc/131/fd
+fdPaths length:0 path:/proc/131/fd
+Have path fdPathStr /proc/132/fd
+fdPaths length:0 path:/proc/132/fd
+Have path fdPathStr /proc/133/fd
+fdPaths length:0 path:/proc/133/fd
+Have path fdPathStr /proc/134/fd
+fdPaths length:0 path:/proc/134/fd
+Have path fdPathStr /proc/135/fd
+fdPaths length:0 path:/proc/135/fd
+Have path fdPathStr /proc/136/fd
+fdPaths length:0 path:/proc/136/fd
+Have path fdPathStr /proc/137/fd
+fdPaths length:0 path:/proc/137/fd
+Have path fdPathStr /proc/138/fd
+fdPaths length:0 path:/proc/138/fd
+Have path fdPathStr /proc/139/fd
+fdPaths length:0 path:/proc/139/fd
+Have path fdPathStr /proc/140/fd
+fdPaths length:0 path:/proc/140/fd
+Have path fdPathStr /proc/141/fd
+fdPaths length:0 path:/proc/141/fd
+Have path fdPathStr /proc/142/fd
+fdPaths length:0 path:/proc/142/fd
+Have path fdPathStr /proc/143/fd
+fdPaths length:0 path:/proc/143/fd
+Have path fdPathStr /proc/144/fd
+fdPaths length:0 path:/proc/144/fd
+Have path fdPathStr /proc/145/fd
+fdPaths length:0 path:/proc/145/fd
+Have path fdPathStr /proc/146/fd
+fdPaths length:0 path:/proc/146/fd
+Have path fdPathStr /proc/147/fd
+fdPaths length:0 path:/proc/147/fd
+Have path fdPathStr /proc/148/fd
+fdPaths length:0 path:/proc/148/fd
+Have path fdPathStr /proc/149/fd
+fdPaths length:0 path:/proc/149/fd
+Have path fdPathStr /proc/150/fd
+fdPaths length:0 path:/proc/150/fd
+Have path fdPathStr /proc/151/fd
+fdPaths length:0 path:/proc/151/fd
+Have path fdPathStr /proc/152/fd
+fdPaths length:0 path:/proc/152/fd
+Have path fdPathStr /proc/153/fd
+fdPaths length:0 path:/proc/153/fd
+Have path fdPathStr /proc/154/fd
+fdPaths length:0 path:/proc/154/fd
+Have path fdPathStr /proc/155/fd
+fdPaths length:0 path:/proc/155/fd
+Have path fdPathStr /proc/156/fd
+fdPaths length:0 path:/proc/156/fd
+Have path fdPathStr /proc/157/fd
+fdPaths length:0 path:/proc/157/fd
+Have path fdPathStr /proc/158/fd
+fdPaths length:0 path:/proc/158/fd
+Have path fdPathStr /proc/159/fd
+fdPaths length:0 path:/proc/159/fd
+Have path fdPathStr /proc/160/fd
+fdPaths length:0 path:/proc/160/fd
+Have path fdPathStr /proc/161/fd
+fdPaths length:0 path:/proc/161/fd
+Have path fdPathStr /proc/162/fd
+fdPaths length:0 path:/proc/162/fd
+Have path fdPathStr /proc/163/fd
+fdPaths length:0 path:/proc/163/fd
+Have path fdPathStr /proc/164/fd
+fdPaths length:0 path:/proc/164/fd
+Have path fdPathStr /proc/165/fd
+fdPaths length:0 path:/proc/165/fd
+Have path fdPathStr /proc/166/fd
+fdPaths length:0 path:/proc/166/fd
+Have path fdPathStr /proc/167/fd
+fdPaths length:0 path:/proc/167/fd
+Have path fdPathStr /proc/168/fd
+fdPaths length:0 path:/proc/168/fd
+Have path fdPathStr /proc/169/fd
+fdPaths length:0 path:/proc/169/fd
+Have path fdPathStr /proc/170/fd
+fdPaths length:0 path:/proc/170/fd
+Have path fdPathStr /proc/171/fd
+fdPaths length:0 path:/proc/171/fd
+Have path fdPathStr /proc/172/fd
+fdPaths length:0 path:/proc/172/fd
+Have path fdPathStr /proc/173/fd
+fdPaths length:0 path:/proc/173/fd
+Have path fdPathStr /proc/174/fd
+fdPaths length:0 path:/proc/174/fd
+Have path fdPathStr /proc/175/fd
+fdPaths length:0 path:/proc/175/fd
+Have path fdPathStr /proc/176/fd
+fdPaths length:0 path:/proc/176/fd
+Have path fdPathStr /proc/177/fd
+fdPaths length:0 path:/proc/177/fd
+Have path fdPathStr /proc/178/fd
+fdPaths length:0 path:/proc/178/fd
+Have path fdPathStr /proc/179/fd
+fdPaths length:0 path:/proc/179/fd
+Have path fdPathStr /proc/180/fd
+fdPaths length:0 path:/proc/180/fd
+Have path fdPathStr /proc/181/fd
+fdPaths length:0 path:/proc/181/fd
+Have path fdPathStr /proc/182/fd
+fdPaths length:0 path:/proc/182/fd
+Have path fdPathStr /proc/183/fd
+fdPaths length:0 path:/proc/183/fd
+Have path fdPathStr /proc/184/fd
+fdPaths length:0 path:/proc/184/fd
+Have path fdPathStr /proc/185/fd
+fdPaths length:0 path:/proc/185/fd
+Have path fdPathStr /proc/186/fd
+fdPaths length:0 path:/proc/186/fd
+Have path fdPathStr /proc/187/fd
+fdPaths length:0 path:/proc/187/fd
+Have path fdPathStr /proc/188/fd
+fdPaths length:0 path:/proc/188/fd
+Have path fdPathStr /proc/189/fd
+fdPaths length:0 path:/proc/189/fd
+Have path fdPathStr /proc/190/fd
+fdPaths length:0 path:/proc/190/fd
+Have path fdPathStr /proc/191/fd
+fdPaths length:0 path:/proc/191/fd
+Have path fdPathStr /proc/192/fd
+fdPaths length:0 path:/proc/192/fd
+Have path fdPathStr /proc/193/fd
+fdPaths length:0 path:/proc/193/fd
+Have path fdPathStr /proc/194/fd
+fdPaths length:0 path:/proc/194/fd
+Have path fdPathStr /proc/195/fd
+fdPaths length:0 path:/proc/195/fd
+Have path fdPathStr /proc/196/fd
+fdPaths length:0 path:/proc/196/fd
+Have path fdPathStr /proc/197/fd
+fdPaths length:0 path:/proc/197/fd
+Have path fdPathStr /proc/198/fd
+fdPaths length:0 path:/proc/198/fd
+Have path fdPathStr /proc/199/fd
+fdPaths length:0 path:/proc/199/fd
+Have path fdPathStr /proc/200/fd
+fdPaths length:0 path:/proc/200/fd
+Have path fdPathStr /proc/201/fd
+fdPaths length:0 path:/proc/201/fd
+Have path fdPathStr /proc/202/fd
+fdPaths length:0 path:/proc/202/fd
+Have path fdPathStr /proc/203/fd
+fdPaths length:0 path:/proc/203/fd
+Have path fdPathStr /proc/204/fd
+fdPaths length:0 path:/proc/204/fd
+Have path fdPathStr /proc/205/fd
+fdPaths length:0 path:/proc/205/fd
+Have path fdPathStr /proc/206/fd
+fdPaths length:0 path:/proc/206/fd
+Have path fdPathStr /proc/207/fd
+fdPaths length:0 path:/proc/207/fd
+Have path fdPathStr /proc/208/fd
+fdPaths length:0 path:/proc/208/fd
+Have path fdPathStr /proc/209/fd
+fdPaths length:0 path:/proc/209/fd
+Have path fdPathStr /proc/210/fd
+fdPaths length:0 path:/proc/210/fd
+Have path fdPathStr /proc/211/fd
+fdPaths length:0 path:/proc/211/fd
+Have path fdPathStr /proc/212/fd
+fdPaths length:0 path:/proc/212/fd
+Have path fdPathStr /proc/213/fd
+fdPaths length:0 path:/proc/213/fd
+Have path fdPathStr /proc/214/fd
+fdPaths length:0 path:/proc/214/fd
+Have path fdPathStr /proc/215/fd
+fdPaths length:0 path:/proc/215/fd
+Have path fdPathStr /proc/216/fd
+fdPaths length:0 path:/proc/216/fd
+Have path fdPathStr /proc/217/fd
+fdPaths length:0 path:/proc/217/fd
+Have path fdPathStr /proc/218/fd
+fdPaths length:0 path:/proc/218/fd
+Have path fdPathStr /proc/219/fd
+fdPaths length:0 path:/proc/219/fd
+Have path fdPathStr /proc/220/fd
+fdPaths length:0 path:/proc/220/fd
+Have path fdPathStr /proc/221/fd
+fdPaths length:0 path:/proc/221/fd
+Have path fdPathStr /proc/222/fd
+fdPaths length:0 path:/proc/222/fd
+Have path fdPathStr /proc/223/fd
+fdPaths length:0 path:/proc/223/fd
+Have path fdPathStr /proc/224/fd
+fdPaths length:0 path:/proc/224/fd
+Have path fdPathStr /proc/225/fd
+fdPaths length:0 path:/proc/225/fd
+Have path fdPathStr /proc/226/fd
+fdPaths length:0 path:/proc/226/fd
+Have path fdPathStr /proc/227/fd
+fdPaths length:0 path:/proc/227/fd
+Have path fdPathStr /proc/228/fd
+fdPaths length:0 path:/proc/228/fd
+Have path fdPathStr /proc/229/fd
+fdPaths length:0 path:/proc/229/fd
+Have path fdPathStr /proc/230/fd
+fdPaths length:0 path:/proc/230/fd
+Have path fdPathStr /proc/231/fd
+fdPaths length:0 path:/proc/231/fd
+Have path fdPathStr /proc/232/fd
+fdPaths length:0 path:/proc/232/fd
+Have path fdPathStr /proc/233/fd
+fdPaths length:0 path:/proc/233/fd
+Have path fdPathStr /proc/234/fd
+fdPaths length:0 path:/proc/234/fd
+Have path fdPathStr /proc/235/fd
+fdPaths length:0 path:/proc/235/fd
+Have path fdPathStr /proc/236/fd
+fdPaths length:0 path:/proc/236/fd
+Have path fdPathStr /proc/237/fd
+fdPaths length:0 path:/proc/237/fd
+Have path fdPathStr /proc/238/fd
+fdPaths length:0 path:/proc/238/fd
+Have path fdPathStr /proc/239/fd
+fdPaths length:0 path:/proc/239/fd
+Have path fdPathStr /proc/240/fd
+fdPaths length:0 path:/proc/240/fd
+Have path fdPathStr /proc/241/fd
+fdPaths length:0 path:/proc/241/fd
+Have path fdPathStr /proc/242/fd
+fdPaths length:0 path:/proc/242/fd
+Have path fdPathStr /proc/243/fd
+fdPaths length:0 path:/proc/243/fd
+Have path fdPathStr /proc/244/fd
+fdPaths length:0 path:/proc/244/fd
+Have path fdPathStr /proc/245/fd
+fdPaths length:0 path:/proc/245/fd
+Have path fdPathStr /proc/246/fd
+fdPaths length:0 path:/proc/246/fd
+Have path fdPathStr /proc/247/fd
+fdPaths length:0 path:/proc/247/fd
+Have path fdPathStr /proc/248/fd
+fdPaths length:0 path:/proc/248/fd
+Have path fdPathStr /proc/249/fd
+fdPaths length:0 path:/proc/249/fd
+Have path fdPathStr /proc/250/fd
+fdPaths length:0 path:/proc/250/fd
+Have path fdPathStr /proc/251/fd
+fdPaths length:0 path:/proc/251/fd
+Have path fdPathStr /proc/252/fd
+fdPaths length:0 path:/proc/252/fd
+Have path fdPathStr /proc/253/fd
+fdPaths length:0 path:/proc/253/fd
+Have path fdPathStr /proc/254/fd
+fdPaths length:0 path:/proc/254/fd
+Have path fdPathStr /proc/255/fd
+fdPaths length:0 path:/proc/255/fd
+Have path fdPathStr /proc/256/fd
+fdPaths length:0 path:/proc/256/fd
+Have path fdPathStr /proc/257/fd
+fdPaths length:0 path:/proc/257/fd
+Have path fdPathStr /proc/258/fd
+fdPaths length:0 path:/proc/258/fd
+Have path fdPathStr /proc/259/fd
+fdPaths length:0 path:/proc/259/fd
+Have path fdPathStr /proc/260/fd
+fdPaths length:0 path:/proc/260/fd
+Have path fdPathStr /proc/261/fd
+fdPaths length:0 path:/proc/261/fd
+Have path fdPathStr /proc/262/fd
+fdPaths length:0 path:/proc/262/fd
+Have path fdPathStr /proc/263/fd
+fdPaths length:0 path:/proc/263/fd
+Have path fdPathStr /proc/264/fd
+fdPaths length:0 path:/proc/264/fd
+Have path fdPathStr /proc/265/fd
+fdPaths length:0 path:/proc/265/fd
+Have path fdPathStr /proc/266/fd
+fdPaths length:0 path:/proc/266/fd
+Have path fdPathStr /proc/267/fd
+fdPaths length:0 path:/proc/267/fd
+Have path fdPathStr /proc/268/fd
+fdPaths length:0 path:/proc/268/fd
+Have path fdPathStr /proc/269/fd
+fdPaths length:0 path:/proc/269/fd
+Have path fdPathStr /proc/270/fd
+fdPaths length:0 path:/proc/270/fd
+Have path fdPathStr /proc/271/fd
+fdPaths length:0 path:/proc/271/fd
+Have path fdPathStr /proc/272/fd
+fdPaths length:0 path:/proc/272/fd
+Have path fdPathStr /proc/273/fd
+fdPaths length:0 path:/proc/273/fd
+Have path fdPathStr /proc/274/fd
+fdPaths length:0 path:/proc/274/fd
+Have path fdPathStr /proc/275/fd
+fdPaths length:0 path:/proc/275/fd
+Have path fdPathStr /proc/276/fd
+fdPaths length:0 path:/proc/276/fd
+Have path fdPathStr /proc/277/fd
+fdPaths length:0 path:/proc/277/fd
+Have path fdPathStr /proc/278/fd
+fdPaths length:0 path:/proc/278/fd
+Have path fdPathStr /proc/279/fd
+fdPaths length:0 path:/proc/279/fd
+Have path fdPathStr /proc/280/fd
+fdPaths length:0 path:/proc/280/fd
+Have path fdPathStr /proc/281/fd
+fdPaths length:0 path:/proc/281/fd
+Have path fdPathStr /proc/282/fd
+fdPaths length:0 path:/proc/282/fd
+Have path fdPathStr /proc/283/fd
+fdPaths length:0 path:/proc/283/fd
+Have path fdPathStr /proc/284/fd
+fdPaths length:0 path:/proc/284/fd
+Have path fdPathStr /proc/285/fd
+fdPaths length:0 path:/proc/285/fd
+Have path fdPathStr /proc/286/fd
+fdPaths length:0 path:/proc/286/fd
+Have path fdPathStr /proc/287/fd
+fdPaths length:0 path:/proc/287/fd
+Have path fdPathStr /proc/288/fd
+fdPaths length:0 path:/proc/288/fd
+Have path fdPathStr /proc/289/fd
+fdPaths length:0 path:/proc/289/fd
+Have path fdPathStr /proc/290/fd
+fdPaths length:0 path:/proc/290/fd
+Have path fdPathStr /proc/291/fd
+fdPaths length:0 path:/proc/291/fd
+Have path fdPathStr /proc/292/fd
+fdPaths length:0 path:/proc/292/fd
+Have path fdPathStr /proc/293/fd
+fdPaths length:0 path:/proc/293/fd
+Have path fdPathStr /proc/294/fd
+fdPaths length:0 path:/proc/294/fd
+Have path fdPathStr /proc/295/fd
+fdPaths length:0 path:/proc/295/fd
+Have path fdPathStr /proc/296/fd
+fdPaths length:0 path:/proc/296/fd
+Have path fdPathStr /proc/297/fd
+fdPaths length:0 path:/proc/297/fd
+Have path fdPathStr /proc/298/fd
+fdPaths length:0 path:/proc/298/fd
+Have path fdPathStr /proc/299/fd
+fdPaths length:0 path:/proc/299/fd
+Have path fdPathStr /proc/300/fd
+fdPaths length:0 path:/proc/300/fd
+Have path fdPathStr /proc/301/fd
+fdPaths length:0 path:/proc/301/fd
+Have path fdPathStr /proc/302/fd
+fdPaths length:0 path:/proc/302/fd
+Have path fdPathStr /proc/303/fd
+fdPaths length:0 path:/proc/303/fd
+Have path fdPathStr /proc/304/fd
+fdPaths length:0 path:/proc/304/fd
+Have path fdPathStr /proc/305/fd
+fdPaths length:0 path:/proc/305/fd
+Have path fdPathStr /proc/306/fd
+fdPaths length:0 path:/proc/306/fd
+Have path fdPathStr /proc/307/fd
+fdPaths length:0 path:/proc/307/fd
+Have path fdPathStr /proc/308/fd
+fdPaths length:0 path:/proc/308/fd
+Have path fdPathStr /proc/309/fd
+fdPaths length:0 path:/proc/309/fd
+Have path fdPathStr /proc/310/fd
+fdPaths length:0 path:/proc/310/fd
+Have path fdPathStr /proc/315/fd
+fdPaths length:0 path:/proc/315/fd
+Have path fdPathStr /proc/316/fd
+fdPaths length:0 path:/proc/316/fd
+Have path fdPathStr /proc/317/fd
+fdPaths length:0 path:/proc/317/fd
+Have path fdPathStr /proc/318/fd
+fdPaths length:0 path:/proc/318/fd
+Have path fdPathStr /proc/319/fd
+fdPaths length:0 path:/proc/319/fd
+Have path fdPathStr /proc/320/fd
+fdPaths length:0 path:/proc/320/fd
+Have path fdPathStr /proc/321/fd
+fdPaths length:0 path:/proc/321/fd
+Have path fdPathStr /proc/322/fd
+fdPaths length:0 path:/proc/322/fd
+Have path fdPathStr /proc/323/fd
+fdPaths length:0 path:/proc/323/fd
+Have path fdPathStr /proc/324/fd
+fdPaths length:0 path:/proc/324/fd
+Have path fdPathStr /proc/325/fd
+fdPaths length:0 path:/proc/325/fd
+Have path fdPathStr /proc/326/fd
+fdPaths length:0 path:/proc/326/fd
+Have path fdPathStr /proc/327/fd
+fdPaths length:0 path:/proc/327/fd
+Have path fdPathStr /proc/328/fd
+fdPaths length:0 path:/proc/328/fd
+Have path fdPathStr /proc/329/fd
+fdPaths length:0 path:/proc/329/fd
+Have path fdPathStr /proc/330/fd
+fdPaths length:0 path:/proc/330/fd
+Have path fdPathStr /proc/331/fd
+fdPaths length:0 path:/proc/331/fd
+Have path fdPathStr /proc/332/fd
+fdPaths length:0 path:/proc/332/fd
+Have path fdPathStr /proc/333/fd
+fdPaths length:0 path:/proc/333/fd
+Have path fdPathStr /proc/334/fd
+fdPaths length:0 path:/proc/334/fd
+Have path fdPathStr /proc/335/fd
+fdPaths length:0 path:/proc/335/fd
+Have path fdPathStr /proc/336/fd
+fdPaths length:0 path:/proc/336/fd
+Have path fdPathStr /proc/337/fd
+fdPaths length:0 path:/proc/337/fd
+Have path fdPathStr /proc/338/fd
+fdPaths length:0 path:/proc/338/fd
+Have path fdPathStr /proc/348/fd
+fdPaths length:0 path:/proc/348/fd
+Have path fdPathStr /proc/352/fd
+fdPaths length:0 path:/proc/352/fd
+Have path fdPathStr /proc/353/fd
+fdPaths length:0 path:/proc/353/fd
+Have path fdPathStr /proc/384/fd
+fdPaths length:0 path:/proc/384/fd
+Have path fdPathStr /proc/516/fd
+fdPaths length:0 path:/proc/516/fd
+Have path fdPathStr /proc/517/fd
+fdPaths length:0 path:/proc/517/fd
+Have path fdPathStr /proc/518/fd
+fdPaths length:0 path:/proc/518/fd
+Have path fdPathStr /proc/519/fd
+fdPaths length:0 path:/proc/519/fd
+Have path fdPathStr /proc/594/fd
+fdPaths length:9 path:/proc/594/fd
+Checking for socketId:167120722
+Putting record:RecTime: 0 - 1435360878646 (0ms) tcp.connection.stats 10.10.70.119:22 172.30.1.133:49889 txQ:0 rxQ:0 pid:594
+Running for 114 ms out of 116 ms, 98
